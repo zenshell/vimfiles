@@ -25,3 +25,6 @@
 [submodule "bundle/html5"]
 	path = bundle/html5
 	url = https://github.com/othree/html5.vim.git
+[submodule "bundle/jquery"]
+	path = bundle/jquery
+	url = https://github.com/nono/jquery.vim.git

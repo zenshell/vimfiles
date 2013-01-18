@@ -86,3 +86,9 @@ autocmd FileType python setlocal omnifunc=pythoncomplete#Complete
 "Fuzzy commands
 command Q q
 command W w
+
+"Insert mode movement
+inoremap <C-K> <Up>
+inoremap <C-J> <Down>
+inoremap <C-H> <Left>
+inoremap <C-L> <Right>
